@@ -1,0 +1,46 @@
+.bigBox{
+    display: inline-flex;
+}
+
+.bax{
+    overflow: hidden;
+    width: 23%;
+    background-color: whitesmoke;
+    border: black solid 2px;
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+    font-size: larger;
+    border-radius: 15px;
+}
+
+.bax img{
+    object-fit: cover;
+    width: 100%;
+    height: 40%;
+    border-radius: 10%;
+}
+
+.p{
+    color: gray;
+}
+
+.H{
+    color: black;
+}
+
+.btn {
+    background-color: red;
+    text-align: center;
+    color: white;
+    border-radius: 10%;
+    font-size: 17px;
+    width: 45%;
+    margin-left: 25%;
+    height: 30px;
+    font-size: 22px;
+  }
+
+  .btn:hover{
+     background-color: blue;
+  }

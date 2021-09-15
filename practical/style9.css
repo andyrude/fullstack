@@ -44,7 +44,7 @@ html {
   }
 
   .menu li {
-    display: inline-block;
+    display: inline-flex;
     line-height: 70px;
   }
 

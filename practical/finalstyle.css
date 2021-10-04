@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+table thead tr{
+    background-color: lightblue;
+}
+table{
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+}
+table thead{
+    margin: 13%
+}
+table tr td{
+    padding: 1%;
+    border: none;
+}
+.green{
+    background-color: lightgreen;
+}
+.blue{
+    background-color:whitesmoke;
+}
+.first{
+    color: green;
+    font-weight: bold;
+}
+.bt {
+    background-color:palevioletred;
+    cursor: pointer;
+    vertical-align: middle;
+    height: 40px;
+    width: 35%;
+    border-radius: 12%;
+  }
+.bt:hover{
+    background-color: orange;
+}  
